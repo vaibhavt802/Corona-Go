@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/color_white"
+    tools:context=".AboutUs">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <androidx.cardview.widget.CardView
+
+            android:id="@+id/cardviewfirst"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            app:cardElevation="10dp"
+            app:cardCornerRadius="10dp">
+
+            <LinearLayout
+                android:id="@+id/cardLinear"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:id="@+id/linearprofile"
+                    android:layout_width="match_parent"
+                    android:layout_height="170dp"
+                    android:orientation="horizontal"
+                    android:weightSum="2">
+
+                    <de.hdodenhof.circleimageview.CircleImageView
+                        android:id="@+id/circleImageView"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_marginStart="15dp"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginTop="15dp"
+                        android:layout_marginBottom="15dp"
+                        android:layout_weight="1"
+                        android:src="@drawable/pranavnew"/>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:layout_marginLeft="10dp"
+                        android:orientation="vertical"
+                        android:gravity="center_vertical">
+
+                        <TextView
+                            android:id="@+id/tvpranavname"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Pranav Kurkure"
+                            android:textAppearance="@style/TextAppearance.AppCompat.Title"
+                            android:textSize="25dp"
+                            android:layout_marginRight="5dp"/>
+
+                        <TextView
+                            android:id="@+id/tvpranavrole"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Developer"
+                            android:textSize="15dp"
+                            android:layout_marginRight="5dp"/>
+                        <TextView
+                            android:id="@+id/tvpranavpict"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Pune Institude of Computer Technology"
+                            android:textSize="20dp"
+                            android:layout_marginRight="5dp"/>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="80dp"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:id="@+id/gitPK"
+                        android:layout_width="80dp"
+                        android:layout_height="80dp"
+                        android:layout_marginLeft="25dp"
+                        android:cropToPadding="false"
+                        android:src="@drawable/github"/>
+
+                    <ImageView
+                        android:id="@+id/linkPK"
+                        android:layout_width="80dp"
+                        android:layout_height="80dp"
+                        android:layout_marginLeft="25dp"
+                        android:cropToPadding="false"
+                        android:src="@drawable/linkedin"/>
+
+                    <ImageView
+                        android:id="@+id/instaPK"
+                        android:layout_width="80dp"
+                        android:layout_height="80dp"
+                        android:layout_marginLeft="25dp"
+                        android:cropToPadding="false"
+                        android:src="@drawable/insta"/>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cardviewsecond"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            app:cardElevation="10dp"
+            app:cardCornerRadius="5dp">
+
+            <LinearLayout
+                android:id="@+id/cardLinear2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:id="@+id/linearprofilevaibhav"
+                    android:layout_width="match_parent"
+                    android:layout_height="170dp"
+                    android:orientation="horizontal"
+                    android:weightSum="2">
+
+                    <de.hdodenhof.circleimageview.CircleImageView
+                        android:id="@+id/circleImageViewVaibhav"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_marginStart="15dp"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginTop="15dp"
+                        android:layout_marginBottom="15dp"
+                        android:layout_weight="1"
+                        android:src="@drawable/vaibhav"/>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:layout_marginLeft="10dp"
+                        android:orientation="vertical"
+                        android:gravity="center_vertical">
+
+                        <TextView
+                            android:id="@+id/tvVaibhavname"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Vaibhav Thakur"
+                            android:textAppearance="@style/TextAppearance.AppCompat.Title"
+                            android:textSize="24dp"
+                            android:layout_marginRight="5dp"/>
+
+                        <TextView
+                            android:id="@+id/tvvaibhavrole"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Developer"
+                            android:textSize="15dp"
+                            android:layout_marginRight="5dp"/>
+                        <TextView
+                            android:id="@+id/tvvaibhavpict"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Pune Institude of Computer Technology"
+                            android:textSize="20dp"
+                            android:layout_marginRight="5dp"/>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="80dp"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:id="@+id/gitVT"
+                        android:layout_width="80dp"
+                        android:layout_height="80dp"
+                        android:layout_marginLeft="25dp"
+                        android:cropToPadding="false"
+                        android:src="@drawable/github"/>
+
+                    <ImageView
+                        android:id="@+id/linkVT"
+                        android:layout_width="80dp"
+                        android:layout_height="80dp"
+                        android:layout_marginLeft="25dp"
+                        android:cropToPadding="false"
+                        android:src="@drawable/linkedin"/>
+
+                    <ImageView
+                        android:id="@+id/instaVT"
+                        android:layout_width="80dp"
+                        android:layout_height="80dp"
+                        android:layout_marginLeft="25dp"
+                        android:cropToPadding="false"
+                        android:src="@drawable/insta"/>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+    </LinearLayout>
+
+</LinearLayout>

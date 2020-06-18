@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@color/color_white">
+
+
+<androidx.cardview.widget.CardView
+    android:layout_width="match_parent"
+    android:layout_height="271dp"
+    android:id="@+id/card_view"
+    android:layout_gravity="top"
+    app:cardCornerRadius="20dp"
+    app:cardElevation="10dp"
+    android:layout_marginTop="20dp"
+    android:layout_marginRight="20dp"
+    android:layout_marginLeft="20dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/edtname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="15dp"
+            android:inputType="text"
+            android:digits="abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+            android:hint="Name"
+            android:paddingLeft="20dp"
+            android:textSize="20sp" />
+
+        <EditText
+            android:id="@+id/edtamount"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="15dp"
+            android:hint="Amount"
+            android:inputType="phone"
+            android:paddingLeft="20dp"
+            android:textSize="20sp" />
+
+        <com.reginald.editspinner.EditSpinner
+            android:id="@+id/edit_spinner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:paddingLeft="20dp"
+            android:textSize="20sp"
+            android:hint="UPI ID"
+            app:dropDownDrawable="@drawable/spinner_icon"
+            app:dropDownDrawableSpacing="15dp"
+            app:dropDownDrawableWidth="25dp"
+            app:dropDownDrawableHeight="25dp" />
+
+
+        <EditText
+            android:id="@+id/edtnote"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="10dp"
+            android:hint="Note"
+            android:paddingLeft="20dp"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
+
+    <Button
+        android:id="@+id/btnsendviaupi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:background="@color/color_one"
+        android:text="SEND VIA UPI"
+        android:textColor="@android:color/white"
+        android:textSize="20dp"
+        android:padding="5dp" />
+
+    <FrameLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:background="@drawable/divider_section_separator"
+        android:orientation="vertical">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_gravity="center"
+        android:text="OR"
+        android:background="@color/color_white"/>
+    </FrameLayout>
+
+    <Button
+        android:id="@+id/btnscanqr"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:background="@color/color_one"
+        android:text="SCAN QR CODE"
+        android:textColor="@android:color/white"
+        android:textSize="20dp"
+        android:padding="5dp" />
+
+
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    android:theme="@style/AppTheme.NoActionBar"
+    tools:context=".SplashActivity">
+
+    <ImageView
+        android:id="@+id/ivcorona"
+        android:layout_width="wrap_content"
+        android:layout_height="350dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="39dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="100dp"
+        android:src="@drawable/virus" />
+
+    <TextView
+        android:id="@+id/tvindias"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ivcorona"
+        android:layout_marginTop="20dp"
+        android:text="INDIA'S"
+        android:textSize="40sp"
+        android:layout_marginLeft="20dp"
+        android:textStyle="bold"
+        android:textColor="@color/color_white"/>
+
+    <TextView
+        android:id="@+id/tvcovid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvindias"
+        android:text="COVID-19"
+        android:textSize="40sp"
+        android:layout_marginLeft="20dp"
+        android:textStyle="bold"
+        android:textColor="@color/color_white"/>
+
+    <TextView
+        android:id="@+id/tvtracker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvcovid"
+        android:text="TRACKER"
+        android:textSize="40sp"
+        android:layout_marginLeft="20dp"
+        android:textStyle="bold"
+        android:textColor="@color/color_white"/>
+
+</RelativeLayout>

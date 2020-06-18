@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="Home"/>
+        <item android:id="@+id/nav_donate"
+            android:icon="@drawable/ic_attach_money"
+            android:title="Donate"/>
+        <item android:id="@+id/nav_contact"
+            android:icon="@drawable/ic_call"
+            android:title="Contact"/>
+        <item android:id="@+id/nav_report"
+            android:icon="@drawable/ic_report"
+            android:title="Report"/>
+        <item android:id="@+id/nav_dos"
+            android:icon="@drawable/ic_dos"
+            android:title="Do's and Dont's"/>
+        <item android:id="@+id/nav_stats"
+            android:icon="@drawable/is_stats"
+            android:title="Statistics"/>
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item android:id="@+id/nav_share"
+                android:icon="@drawable/ic_share_black_24dp"
+                android:title="Share"/>
+            <item android:id="@+id/nav_info"
+                android:icon="@drawable/ic_info"
+                android:title="About Us!"/>
+        </menu>
+    </item>
+
+
+
+</menu>
