@@ -76,7 +76,7 @@
                             android:id="@+id/tvpranavpict"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:text="Pune Institude of Computer Technology"
+                            android:text="Pune Institute of Computer Technology"
                             android:textSize="20dp"
                             android:layout_marginRight="5dp"/>
 
@@ -181,7 +181,7 @@
                             android:id="@+id/tvvaibhavpict"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:text="Pune Institude of Computer Technology"
+                            android:text="Pune Institute of Computer Technology"
                             android:textSize="20dp"
                             android:layout_marginRight="5dp"/>
 
