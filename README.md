@@ -15,12 +15,12 @@ There are two Gradle tasks for testing the project:
 For more resources on learning Android development, visit the [Developer Guides](https://developer.android.com/guide/) at [developer.android.com](https://developer.android.com/).
 
 # Screenshots
-![corona_go_1](https://user-images.githubusercontent.com/47378164/85360536-02060880-b537-11ea-9847-f34f8f2f6e14.png)
-![corona_go_2](https://user-images.githubusercontent.com/47378164/85360538-029e9f00-b537-11ea-8052-fe0a2ce9290d.png)
-![corona_go_3](https://user-images.githubusercontent.com/47378164/85360527-fe728180-b536-11ea-9d3b-ddfc400fcafc.png)
-![corona_go_4](https://user-images.githubusercontent.com/47378164/85360530-ffa3ae80-b536-11ea-9e12-2a821fa155f9.png)
-![corona_go_5](https://user-images.githubusercontent.com/47378164/85360532-00d4db80-b537-11ea-871d-f5808e238d4d.png)
-![corona_go_6](https://user-images.githubusercontent.com/47378164/85360533-016d7200-b537-11ea-97ae-1bcb241e1d74.png)
+![corona_go_1](https://user-images.githubusercontent.com/47378164/85365904-de958a80-b543-11ea-8a1b-85446bcad1ab.png)
+![corona_go_2](https://user-images.githubusercontent.com/47378164/85365907-df2e2100-b543-11ea-9e11-a87bed16fbd1.png)
+![corona_go_3](https://user-images.githubusercontent.com/47378164/85365892-da696d00-b543-11ea-942e-a233e4f9e638.png)
+![corona_go_4](https://user-images.githubusercontent.com/47378164/85365898-dc333080-b543-11ea-9290-d2134dcabd58.png)
+![corona_go_5](https://user-images.githubusercontent.com/47378164/85365900-dccbc700-b543-11ea-8811-7ee99878d532.png)
+![corona_go_6](https://user-images.githubusercontent.com/47378164/85365902-dd645d80-b543-11ea-9b37-1d7075360a1a.png)
 
 # List of Libraries used
 * [Foundation](https://developer.android.com/jetpack/androidx/releases/appcompat) - Components for core system capabilities, Kotlin extensions, and support for multidex and automated testing.
