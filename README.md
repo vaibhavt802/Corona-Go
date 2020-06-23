@@ -1,4 +1,4 @@
-# Corona-Go  [![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/vaibhavt802/Coding-in-LabVIEW/blob/master/LICENSE)
+# Corona-Go  [![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/vaibhavt802/Corona-Go/blob/master/LICENSE)
 “India’s Covid 19 Tracker” 
 
 # Introduction
@@ -73,13 +73,13 @@ Corona Go uses Java.
   * [Android Coding](https://www.youtube.com/channel/UCUIF5MImktJLDWDKe5oTdJQ)
   * [Aws Rh](https://www.youtube.com/channel/UCoQp_Duwqh0JWEZrg4DT2Ug)
 
-# [Contribute](https://github.com/vaibhavt802/Corona-Go/blob/master/contribute.md)
+# Contribute
 
-  Click on Contribute to open the document.
+  Click on [Contribute](https://github.com/vaibhavt802/Corona-Go/blob/master/contribute.md) to open the document.
 
-# [License](https://github.com/vaibhavt802/Corona-Go/blob/master/LICENSE)
+# License
 
-[![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/vaibhavt802/Coding-in-LabVIEW/blob/master/LICENSE)
+[![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/vaibhavt802/Corona-Go/blob/master/LICENSE)
 
  MIT License
 	
