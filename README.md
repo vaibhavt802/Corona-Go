@@ -35,6 +35,6 @@ For more resources on learning Android development, visit the [Developer Guides]
 * [UI](https://github.com/wasabeef/awesome-android-ui)- Details on why & how to use UI components in your apps together or separate.
  	
   * [Animations & Transitions](https://developer.android.com/training/animation/) - Move widgets and transition between screens.
- 	* [Fragment](https://developer.android.com/guide/components/fragments) - A basic unit of composable UI.
- 	* [Layout](https://developer.android.com/guide/topics/ui/declaring-layout) - Lay out widgets using different algorithms.
- 	* [Recycler View](https://www.javatpoint.com/android-recyclerview-list-example) - The Recycler View class extends the View Group class and implements Scrolling View interface. It is introduced in Marshmallow.
+  * [Fragment](https://developer.android.com/guide/components/fragments) - A basic unit of composable UI.
+  * [Layout](https://developer.android.com/guide/topics/ui/declaring-layout) - Layout widgets using different algorithms.
+  * [Recycler View](https://www.javatpoint.com/android-recyclerview-list-example) - The Recycler View class extends the View Group class and implements Scrolling View interface. It is introduced in Marshmallow.
