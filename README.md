@@ -52,3 +52,23 @@ For more resources on learning Android development, visit the [Developer Guides]
   * [Circdeimageview](https://github.com/hdodenhof/CircleImageView) - A fast circular ImageView perfect for profile images.
   * [Firebase](https://github.com/firebase/FirebaseUI-Android) - Firebase is an open-source library for Android that allows you to quickly connect common UI elements to [Firebase](https://firebase.google.com/) APIs.
   * [pl.droidsondroids.gif](https://www.javadoc.io/doc/pl.droidsonroids.gif/android-gif-drawable/1.2.6/pl/droidsonroids/gif/package-summary.html) - Interface which can be used to run some code when particular animation event occurs.
+
+# Upcoming Features
+ 
+ * Chat bot.
+ * Corona positive on Google maps.
+ 
+# Android Studio IDE setup
+
+For development, the latest version of Android Studio is required. The latest version can be downloaded from [here](https://developer.android.com/studio/).
+Corona Go uses Java.
+  * Close Android Studio if it's open
+  * Download JDK using these [installation instructions](https://www.oracle.com/java/technologies/javase-jdk8-doc-downloads.html)
+  * Start Android Studio
+  
+# Resources Referred
+  * [Raj Tech](https://www.youtube.com/channel/UCfYzumuCdqHorc9zay9HZaA)
+  * [Coding in Flow](https://www.youtube.com/channel/UC_Fh8kvtkVPkeihBs42jGcA)
+  * [ARSL Tech](https://www.youtube.com/channel/UCB2B0AuQgk6eOMbWR7qiqew)
+  * [Android Coding](https://www.youtube.com/channel/UCUIF5MImktJLDWDKe5oTdJQ)
+  * [Aws Rh](https://www.youtube.com/channel/UCoQp_Duwqh0JWEZrg4DT2Ug)
