@@ -7,10 +7,10 @@ different district of those states. So this app will definitely help us to track
 parts of our country including all the states as well as districts.
 
 # Getting Started
-This project uses the Gradle build system. To build this project, use the gradlew build command or use "Import Project" in Android Studio.
+This project uses the Gradle build system. To build this project, use the `gradlew build` command or use "Import Project" in Android Studio.
 There are two Gradle tasks for testing the project:
-* connectedAndroidTest - for running Espresso on a connected device
-* test - for running unit tests
+* `connectedAndroidTest` - for running Espresso on a connected device
+* `test` - for running unit tests
 
 For more resources on learning Android development, visit the [Developer Guides](https://developer.android.com/guide/) at [developer.android.com](https://developer.android.com/).
 
