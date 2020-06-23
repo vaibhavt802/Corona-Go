@@ -27,3 +27,7 @@ For more resources on learning Android development, visit the [Developer Guides]
 
  	* [AppCompat](https://developer.android.com/jetpack/androidx/releases/appcompat)- Allows access to new APIs on older API versions of the platform (many using Material Design).
  	* [Test](https://developer.android.com/training/testing)- An android testing framework for unit and run time UI tests.
+
+* [Architecture](https://developer.android.com/topic/libraries/architecture) - Android architecture components are a collection of libraries that help you design robust, testable, and maintainable apps. Start with classes for managing your UI component lifecycle and handling data persistence.
+ 	
+  * [Navigation](https://developer.android.com/guide/navigation)- Navigation refers to the interactions that allow users to navigate across, into, and back out from the different pieces of content within your app.
