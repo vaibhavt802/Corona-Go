@@ -15,3 +15,4 @@ There are two Gradle tasks for testing the project:
 For more resources on learning Android development, visit the [Developer Guides](https://developer.android.com/guide/) at [developer.android.com](https://developer.android.com/).
 
 # Screenshots
+![corona_go_one](https://user-images.githubusercontent.com/47378164/85359913-3f699680-b535-11ea-85f9-fa4698c0a103.jpg)
