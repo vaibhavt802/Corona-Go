@@ -15,4 +15,9 @@ There are two Gradle tasks for testing the project:
 For more resources on learning Android development, visit the [Developer Guides](https://developer.android.com/guide/) at [developer.android.com](https://developer.android.com/).
 
 # Screenshots
-![corona_go_1](https://user-images.githubusercontent.com/47378164/85360221-244b5680-b536-11ea-8089-2c247ee260b3.png)
+![corona_go_1](https://user-images.githubusercontent.com/47378164/85360536-02060880-b537-11ea-9847-f34f8f2f6e14.png)
+![corona_go_2](https://user-images.githubusercontent.com/47378164/85360538-029e9f00-b537-11ea-8052-fe0a2ce9290d.png)
+![corona_go_3](https://user-images.githubusercontent.com/47378164/85360527-fe728180-b536-11ea-9d3b-ddfc400fcafc.png)
+![corona_go_4](https://user-images.githubusercontent.com/47378164/85360530-ffa3ae80-b536-11ea-9e12-2a821fa155f9.png)
+![corona_go_5](https://user-images.githubusercontent.com/47378164/85360532-00d4db80-b537-11ea-871d-f5808e238d4d.png)
+![corona_go_6](https://user-images.githubusercontent.com/47378164/85360533-016d7200-b537-11ea-97ae-1bcb241e1d74.png)
