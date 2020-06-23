@@ -31,3 +31,10 @@ For more resources on learning Android development, visit the [Developer Guides]
 * [Architecture](https://developer.android.com/topic/libraries/architecture) - Android architecture components are a collection of libraries that help you design robust, testable, and maintainable apps. Start with classes for managing your UI component lifecycle and handling data persistence.
  	
   * [Navigation](https://developer.android.com/guide/navigation)- Navigation refers to the interactions that allow users to navigate across, into, and back out from the different pieces of content within your app.
+  
+* [UI](https://github.com/wasabeef/awesome-android-ui)- Details on why & how to use UI components in your apps together or separate.
+ 	
+  * [Animations & Transitions](https://developer.android.com/training/animation/) - Move widgets and transition between screens.
+ 	* [Fragment](https://developer.android.com/guide/components/fragments) - A basic unit of composable UI.
+ 	* [Layout](https://developer.android.com/guide/topics/ui/declaring-layout) - Lay out widgets using different algorithms.
+ 	* [Recycler View](https://www.javatpoint.com/android-recyclerview-list-example) - The Recycler View class extends the View Group class and implements Scrolling View interface. It is introduced in Marshmallow.
