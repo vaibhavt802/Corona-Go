@@ -1,5 +1,5 @@
-# Corona-Go
-“India’s Covid 19 Tracker”  [![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/vaibhavt802/Coding-in-LabVIEW/blob/master/LICENSE)
+# Corona-Go  [![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/vaibhavt802/Coding-in-LabVIEW/blob/master/LICENSE)
+“India’s Covid 19 Tracker” 
 
 # Introduction
 Nowadays it is very cardinal to be updated about today’s Covid situation, as we have many family members and friends belonging to different states even they reside in 
@@ -74,6 +74,8 @@ Corona Go uses Java.
   * [Aws Rh](https://www.youtube.com/channel/UCoQp_Duwqh0JWEZrg4DT2Ug)
 
 # [Contribute](https://github.com/vaibhavt802/Corona-Go/blob/master/contribute.md)
+
+  Click on Contribute to open the document.
 
 # [License](https://github.com/vaibhavt802/Corona-Go/blob/master/LICENSE)
 
