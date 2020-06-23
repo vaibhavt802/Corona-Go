@@ -1,5 +1,5 @@
 # Corona-Go
-“India’s Covid 19 Tracker”
+“India’s Covid 19 Tracker”  [![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/vaibhavt802/Coding-in-LabVIEW/blob/master/LICENSE)
 
 # Introduction
 Nowadays it is very cardinal to be updated about today’s Covid situation, as we have many family members and friends belonging to different states even they reside in 
@@ -72,3 +72,30 @@ Corona Go uses Java.
   * [ARSL Tech](https://www.youtube.com/channel/UCB2B0AuQgk6eOMbWR7qiqew)
   * [Android Coding](https://www.youtube.com/channel/UCUIF5MImktJLDWDKe5oTdJQ)
   * [Aws Rh](https://www.youtube.com/channel/UCoQp_Duwqh0JWEZrg4DT2Ug)
+
+# [Contribute](https://github.com/vaibhavt802/Corona-Go/blob/master/contribute.md)
+
+# [License](https://github.com/vaibhavt802/Corona-Go/blob/master/LICENSE)
+
+[![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/vaibhavt802/Coding-in-LabVIEW/blob/master/LICENSE)
+
+ MIT License
+	
+ Copyright (c) 2020 Pranav Kurkure,  Vaibhav Thakur
+	Permission is hereby granted, free of charge, to any person obtaining a copy
+	of this software and associated documentation files (the "Software"), to deal
+	in the Software without restriction, including without limitation the rights
+	to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+	copies of the Software, and to permit persons to whom the Software is
+	furnished to do so, subject to the following conditions:
+	
+ The above copyright notice and this permission notice shall be included in all
+	copies or substantial portions of the Software.
+	
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+	IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+	FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+	AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+	LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+	OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+	SOFTWARE.
