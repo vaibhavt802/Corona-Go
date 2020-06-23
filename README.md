@@ -23,6 +23,7 @@ For more resources on learning Android development, visit the [Developer Guides]
 ![corona_go_6](https://user-images.githubusercontent.com/47378164/85360533-016d7200-b537-11ea-97ae-1bcb241e1d74.png)
 
 # List of Libraries used
-* Foundation - Components for core system capabilities, Kotlin extensions, and support for multidex and automated testing.
- 	* AppCompat- Allows access to new APIs on older API versions of the platform (many using Material Design).
- 	* Test- An android testing framework for unit and run time UI tests.
+* [Foundation](https://developer.android.com/jetpack/androidx/releases/appcompat) - Components for core system capabilities, Kotlin extensions, and support for multidex and automated testing.
+
+ 	* [AppCompat](https://developer.android.com/jetpack/androidx/releases/appcompat)- Allows access to new APIs on older API versions of the platform (many using Material Design).
+ 	* [Test](https://developer.android.com/training/testing)- An android testing framework for unit and run time UI tests.
