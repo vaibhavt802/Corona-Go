@@ -1,6 +1,17 @@
 # Corona-Go  [![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/vaibhavt802/Corona-Go/blob/master/LICENSE)
 “India’s Covid 19 Tracker” 
 
+# Download App 
+The app is available on GetJar
+<p align="left">
+<a href="https://www.getjar.com/categories/health-apps/more/Corona-Go-979590">
+    <img alt="Get it on GetJar"
+        height="80"
+        src="https://idcee.org/storage/2014/companies/getjar-logo.png.pagespeed.ce.7-P1I1O4wI.png" />
+	Click to download
+</a>  
+	
+
 # Introduction
 Nowadays it is very cardinal to be updated about today’s Covid situation, as we have many family members and friends belonging to different states even they reside in 
 different district of those states. So this app will definitely help us to track the number of active patients, total patients demise, and recovered patients in different 
