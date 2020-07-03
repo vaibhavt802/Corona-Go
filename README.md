@@ -1,6 +1,17 @@
 # Corona-Go  [![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/vaibhavt802/Corona-Go/blob/master/LICENSE)
 “India’s Covid 19 Tracker” 
 
+# Download App 
+The app is available on GetJar
+<p align="left">
+<a href="https://www.getjar.com/categories/health-apps/more/Corona-Go-979590">
+    <img alt="Get it on GetJar"
+        height="80"
+        src="https://idcee.org/storage/2014/companies/getjar-logo.png.pagespeed.ce.7-P1I1O4wI.png" />
+	Click to download
+</a>  
+	
+
 # Introduction
 Nowadays it is very cardinal to be updated about today’s Covid situation, as we have many family members and friends belonging to different states even they reside in 
 different district of those states. So this app will definitely help us to track the number of active patients, total patients demise, and recovered patients in different 
@@ -44,12 +55,12 @@ For more resources on learning Android development, visit the [Developer Guides]
   * [Zxing](https://github.com/journeyapps/zxing-android-embedded) - Barcode scanner library for Android, based on the ZXing decoder.
   * [Blackfizz/eazegraph](http://androidxy.com/en/detail/5f7459839a43dba90eb37af4b5b48027) - EazeGraph is an Android library for creating beautiful and fancy charts. Its main goal was to create a lightweight library which is easy to use and highly customizable with an "up-to-date"-look.
   * [Volley](https://developer.android.com/training/volley) - Volley is an HTTP library that makes networking for Android apps easier and most importantly, faster. Volley is available on [GitHub](https://github.com/google/volley).
-  * [Simple Loader](https://developer.android.com/guide/components/loaders) - Loaders solve these problems and includes other benefits.
-  * [Editspinner](https://developer.android.com/guide/topics/ui/controls/spinner) - Spinners provide a quick way to select one value from a set. In the default state, a spinner shows its currently selected value.
+  * [SimpleArcLoader](https://developer.android.com/guide/components/loaders) - Loaders solve these problems and includes other benefits.
+  * [EditSpinner](https://developer.android.com/guide/topics/ui/controls/spinner) - Spinners provide a quick way to select one value from a set. In the default state, a spinner shows its currently selected value.
   * [View pager Indictor](https://github.com/tommybuonomo/dotsindicator) - This library makes it possible to represent View Pager Dots Indicator with 3 different awesome styles.
   * [GMS play service](https://www.android.com/intl/en_in/gms/) - Google Mobile Services (GMS) is a collection of Google applications and [API](https://developers.google.com/android/guides/overview)s that help support functionality across devices.
-  * [Styleabletoast](https://github.com/Muddz/StyleableToast) - An Android library that takes the standard toast to the next level with many styling options.
-  * [Circdeimageview](https://github.com/hdodenhof/CircleImageView) - A fast circular ImageView perfect for profile images.
+  * [StyleableToast](https://github.com/Muddz/StyleableToast) - An Android library that takes the standard toast to the next level with many styling options.
+  * [CircleImageView](https://github.com/hdodenhof/CircleImageView) - A fast circular ImageView perfect for profile images.
   * [Firebase](https://github.com/firebase/FirebaseUI-Android) - Firebase is an open-source library for Android that allows you to quickly connect common UI elements to [Firebase](https://firebase.google.com/) APIs.
   * [pl.droidsondroids.gif](https://www.javadoc.io/doc/pl.droidsonroids.gif/android-gif-drawable/1.2.6/pl/droidsonroids/gif/package-summary.html) - Interface which can be used to run some code when particular animation event occurs.
 

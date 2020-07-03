@@ -76,7 +76,7 @@ public class navigation_activity extends AppCompatActivity implements Navigation
             case R.id.nav_share:
                 Intent shareIntent = new Intent(Intent.ACTION_SEND);
                 shareIntent.setType("text/plain");
-                String shareBody = "Download this application now :- https://drive.google.com/file/d/1NwnvFX8Y6FIPlMQflDegrt11axPj19Wt/view?usp=sharing";
+                String shareBody = "Download this application now :- https://covidstatsnfighter.herokuapp.com/";
                 shareIntent.putExtra(Intent.EXTRA_TEXT,shareBody);
                 startActivity(Intent.createChooser(shareIntent,"Share using"));
                 break;
